@@ -17,8 +17,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm ygjken</h1>
 <h3 align="center">A student from Japan</h3>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ygjken&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ygjken&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ygjken&theme=solarized)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ygjken&theme=solarized)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ygjken&theme=solarized)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ygjken&theme=solarized)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ygjken&theme=solarized)
 
 
 <h3 align="left">Languages and Tools:</h3>
