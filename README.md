@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 <br>
-<h2 align="left">Here are some ideas to get you started:</h2>
+<h2 align="left">Portfolio:</h2>
 
 - 🔭 I’m currently working on ...
   - [workbook-stock](https://github.com/ygjken/workbook-stock)
