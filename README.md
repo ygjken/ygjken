@@ -7,6 +7,7 @@
 ![](/metrics.plugin.languages.svg)
 ![](/metrics.plugin.languages.recent.svg)
 ![](/metrics.plugin.music.artists.svg)
+![](/metrics.plugin.music.artists.short.svg)
 ![](/metrics.plugin.music.tracks.svg)
 ![](/metrics.plugin.music.recent.svg)
 ![](/metrics.plugin.habits.charts.svg)
