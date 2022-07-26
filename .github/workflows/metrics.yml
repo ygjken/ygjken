@@ -91,7 +91,7 @@ jobs:
           plugin_music_provider: spotify
           plugin_music_mode: recent
           plugin_music_token: ${{ secrets.SPOTIFY_TOKENS }}
-          plugin_music_limit: 2
+          plugin_music_limit: 5
       - name: Spotify - Top artists
         uses: lowlighter/metrics@latest
         with:
@@ -104,6 +104,7 @@ jobs:
           plugin_music_token: ${{ secrets.SPOTIFY_TOKENS }}
           plugin_music_time_range: long
           plugin_music_top_type: artists
+          plugin_music_limit: 5
       - name: Spotify - Top artists (short)
         uses: lowlighter/metrics@latest
         with:
@@ -116,6 +117,7 @@ jobs:
           plugin_music_token: ${{ secrets.SPOTIFY_TOKENS }}
           plugin_music_time_range: short
           plugin_music_top_type: artists
+          plugin_music_limit: 5
       - name: Spotify - Top tracks
         uses: lowlighter/metrics@latest
         with:
@@ -128,3 +130,4 @@ jobs:
           plugin_music_token: ${{ secrets.SPOTIFY_TOKENS }}
           plugin_music_time_range: short
           plugin_music_top_type: tracks
+          plugin_music_limit: 5
