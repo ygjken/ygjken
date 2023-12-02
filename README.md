@@ -2,7 +2,6 @@
 <h3 align="center">A student from Japan</h3>
 
 ![Metrics](/github-metrics.svg)
-![](/metrics.plugin.isocalendar.svg)
 ![](/metrics.plugin.topics.icons.svg)
 ![](/metrics.plugin.languages.svg)
 ![](/metrics.plugin.languages.recent.svg)
